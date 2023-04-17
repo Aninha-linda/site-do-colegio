@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.titulo1 {
+    margin: 15px 0;
+    font-size: 30px;
+    text-align: center;
+    color:black;
+}
+.cabecalho-lista {
+    align-items: center;
+    background-color: #383D58;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    margin: 10px 0;
+}
+.cabecalho-lista-imagem {
+    width: 20%;
+    margin-right: 77%;
+    display: flex;
+}
+.escola-titulo {
+    margin: 30px 0;
+    font-size: 40px;
+    display: flex;
+
+    text-align: center;
+    color: black;
+}
+.cabecalho-lista-item {
+    display: inline-block;
+    margin: 0 16px;
+    padding: 24px 0;
+    font-size: 24px;
+}
+
+.escola {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.texto {
+    margin: 30px 0 0 0;
+    font-size: 20px;
+    text-align: center;
+    color: gray;
+}
+.fotos {
+    width: 35%;
+    margin: 30 0 30 0px;
+    padding: 30px;
+    align-items: center;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+}
+.a {
+    margin: 40px 0 0 0;
+    font-size: 20px;
+    text-align: left;
+    color: gray;
+    font-display: flex;  
+}
+.rodape__lista {
+    display: flex; 
+    justify-content: center;
+    list-style-type: none; 
+    margin-top: 1em;
+}
+.lista__link a {
+text-decoration: none; 
+    color: var(--branco-principal); 
+    margin: 0 16px 0 16px; 
+    font-size:
+    14px;
+}
+.rodape__texto {
+    margin: 1em 0; 
+    color: var(--cinza-secundario); 
+    font-size: 12px;
+}
+.rodape {
+    text-align: center; 
+     margin: 5em 3em;
+}
