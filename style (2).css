@@ -24,8 +24,6 @@
 .escola-titulo {
     margin: 30px 0;
     font-size: 40px;
-    display: flex;
-
     text-align: center;
     color: black;
 }
@@ -35,7 +33,6 @@
     padding: 24px 0;
     font-size: 24px;
 }
-
 .escola {
     align-items: center;
     display: flex;
@@ -45,7 +42,7 @@
 .texto {
     margin: 30px 0 0 0;
     font-size: 20px;
-    text-align: center;
+    text-align:center;
     color: gray;
 }
 .fotos {
@@ -72,17 +69,17 @@
 }
 .lista__link a {
 text-decoration: none; 
-    color: var(--branco-principal); 
+    color: gray; 
     margin: 0 16px 0 16px; 
-    font-size:
-    14px;
+    font-size: 14px;
 }
 .rodape__texto {
     margin: 1em 0; 
-    color: var(--cinza-secundario); 
+    color: gray; 
     font-size: 12px;
 }
 .rodape {
     text-align: center; 
      margin: 5em 3em;
+     color:#383D58;
 }
