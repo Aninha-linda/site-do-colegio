@@ -16,6 +16,9 @@
     justify-content: space-around;
     margin: 10px 0;
 }
+.Procurar{
+   background-color: gray;
+}
 .cabecalho-lista-imagem {
     width: 20%;
     margin-right: 77%;
