@@ -86,3 +86,11 @@ text-decoration: none;
      margin: 5em 3em;
      color:#383D58;
 }
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
