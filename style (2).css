@@ -17,7 +17,7 @@
     margin: 10px 0;
 }
 .Procurar{
-   background-color: purple;
+   background-color: white;
 }
 .cabecalho-lista-imagem {
     width: 20%;
@@ -70,7 +70,7 @@
     list-style-type: none; 
     margin-top: 1em;
 }
-.lista__link a {
+.lista__link {
 text-decoration: none; 
     color: gray; 
     margin: 0 16px 0 16px; 
