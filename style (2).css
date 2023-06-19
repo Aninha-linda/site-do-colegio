@@ -37,13 +37,19 @@
     padding: 24px 0;
     font-size: 24px;
 }
-.lista-menu {
+.cabecalho-menu {
     align-items: center;
     background-color: #383D58;
     color: white;
     display: flex;
     justify-content: space-around;
     margin: 10px 0;
+}
+.materias {
+    display: inline-block;
+    margin: 0 16px;
+    padding: 24px 0;
+    font-size: 24px;
 }
 .botaomenu:checked~.lista-menu {
     display: block;
