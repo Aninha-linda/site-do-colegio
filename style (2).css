@@ -37,6 +37,22 @@
     padding: 24px 0;
     font-size: 24px;
 }
+.lista-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    width: 60vw;
+}
+.botaomenu:checked~.lista-menu {
+    display: block;
+}
+.botaomenu {
+    display: none;
+}
+.lista-menu a {
+    color: white;
+    text-decoration: none;
+}
 .escola {
     align-items: center;
     display: flex;
@@ -65,6 +81,17 @@
     color: gray;
     font-display: flex;  
 }
+.pipoca {
+    display: flex;
+    align-items: center;
+    padding: 0 60px;
+}
+
+.Contate-nos {
+    text-align: left;
+    padding: 30px;
+    font-size: 80%;
+}
 .rodape__lista {
     display: flex; 
     justify-content: center;
@@ -87,11 +114,9 @@ text-decoration: none;
      margin: 5em 3em;
      color:#383D58;
 }
-
 li {
     list-style: none;
 }
-
 a {
     text-decoration: none;
 }
