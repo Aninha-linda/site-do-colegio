@@ -1,0 +1,101 @@
+body {
+    background: whitesmoke;
+    font-family: 'Poppins', sans-serif;
+}
+
+.logo {
+    width: 5%
+}
+
+.a {
+    display: flex;
+    background-color: #0c112d;
+    color: white;
+    position: relative;
+}
+
+.trabalho {
+    display: flex;
+    align-items: center;
+}
+
+.lista {
+    display: inline-block;
+    margin: 0 16px;
+    padding: 5px 0;
+    font-size: 25px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.kozan {
+    width: 35px;
+    height: 35px;
+}
+
+.abacate {
+display: block;
+}
+
+.pipoca {
+    display: flex;
+    align-items: center;
+    padding: 0 60px;
+}
+
+.lista-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    width: 60vw;
+}
+
+.botaomenu:checked~.lista-menu {
+    display: block;
+}
+
+.botaomenu {
+    display: none;
+}
+
+.lista-menu a {
+    color: white;
+    text-decoration: none;
+    
+}
+
+.Contate-nos {
+    text-align: left;
+    padding: 30px;
+    font-size: 80%;
+}
+
+footer {
+    background-color: black;
+    display: block;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.rodape {
+    color: rgb(151, 102, 248);
+}
+
+.texto_roda1 {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.texto_roda a {
+    text-decoration: none;
+    color: white;
+}
