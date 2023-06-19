@@ -83,11 +83,12 @@
     display: flex;
     text-align: center; 
      margin: 5em 3em;
+     padding-bottom: 100%;
      color:#383D58;
 }
 .texto-rodape {
     display: inline-block;
     margin: 1em 0; 
-    color: rgb(251, 250, 250); 
+    color: rgb(236, 25, 25); 
     font-size: 12px;
 }
