@@ -13,15 +13,23 @@
 </head>
 
 <body>
-    <h1 class="titulo1">ESTUDOS</h1>
-    <header class="cabecalho">
-        <ul class="cabecalho-lista">
+ <header class="cabecalho">
+     <div class="class-menu">
+          <input type="checkbox" id="menu" class="botaomenu">
+          <label for="menu">
+             <span class="span">
+                 <img class="barrinhas" src="./imagens/barrinha.png" alt="menu">
+             </span>
+          </label>
+     </div>
+     <ul class="cabecalho-lista">
             <li id="News" class="cabecalho-lista-item"> <a href="index.html">Home</a></li>
             <li id="News" class="cabecalho-lista-item"> <a href="news.html">News</a></li>
             <li id="Projetos" class="cabecalho-lista-item"> <a href="projetos.html">Projetos</a></li>
             <li id="Matérias" class="cabecalho-lista-item"> <a href="matéria.html">Matérias</a></li>
-        </ul>
-    </header>
+     </ul>
+ </header>
+    <h1 class="titulo1">ESTUDOS</h1>
     <section class="escola">
         <img class="cabecalho-lista-imagem" src="logo cep.png">
         <div class="texto">
@@ -36,24 +44,31 @@
                 <img class="fotos" src="maria helo.jpeg">
                 <p>maria helosia linda tbm</p>
             </div>
+
             <div class="a">
                 <img class="fotos" src="aninha.jpeg">
                 <p>aninha linda</p>
             </div>
+
             <div class="a">
                 <img class="fotos" src="babi.jpeg">
                 <p>babi linda tbm</p>
             </div>
         </div>
     </section>
-    <section class="rodapé">
-        <footer class=”rodape”>
-            <div>
-                <a href="CEP">CEP</a>
-                <p id=”rodape__texto”> Site criado por Estudantes do CEP</p>
+    <footer class="rodape">
+        <p class="textoroda">Este site foi criado unicamente para fins pedagógicos.</p>
+        <div class="SiteCep">
+            <h3 class="titulo_roda">Site do colégio</h3>
+
+            <div class="texto_roda">
+                <img src="./imagens/insta_foto.jpg" alt="logo_cep" width="2%">
+                <p class="texto_roda">CEP</p>
             </div>
-        </footer>
-    </section>
+        </div>
+
+    </footer>
+
 </body>
 
 </html>
