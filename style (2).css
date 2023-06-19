@@ -49,7 +49,7 @@
 .botaomenu {
     display: none;
 }
-.lista-menu a {
+.lista-menu {
     color: white;
     text-decoration: none;
 }
@@ -87,6 +87,11 @@
     align-items: center;
     padding: 0 60px;
 }
+.materias {
+    display: block;
+    justify-content: right;
+
+    }
 .SiteCep {
     text-align: left;
     padding: 30px;
@@ -113,10 +118,4 @@ text-decoration: none;
     text-align: center; 
      margin: 5em 3em;
      color:#383D58;
-}
-li {
-    list-style: none;
-}
-a {
-    text-decoration: none;
 }
