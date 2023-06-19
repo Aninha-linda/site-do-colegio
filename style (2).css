@@ -81,16 +81,15 @@
     color: gray;
     font-display: flex;  
 }
-.pipoca {
+.cabecalho-menu {
     display: flex;
     align-items: center;
     padding: 0 60px;
 }
-
-.Contate-nos {
+.SiteCep {
     text-align: left;
     padding: 30px;
-    font-size: 80%;
+    font-size: 20%;
 }
 .rodape__lista {
     display: flex; 
