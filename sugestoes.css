@@ -60,7 +60,6 @@ fieldset {
     border: 0;
 }
 body, input, select, textarea, button {
-    font-family: sans-serif;
     font-size: 1em;
 }
 .grupo:before, .grupo:after {
