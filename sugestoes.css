@@ -56,18 +56,6 @@
     color: gray;
     font-display: flex;  
 }
-.rodape {
-    display: flex;
-    text-align: center; 
-     margin: 5em 3em;
-     color:#383D58;
-}
-.texto-rodape {
-    display: inline-block;
-    margin: 1em 0; 
-    color: rgb(236, 25, 25); 
-    font-size: 12px;
-}
 fieldset {
     border: 0;
 }
@@ -132,4 +120,16 @@ fieldset.grupo .campo {
 }
 .botao, select, label.checkbox {
     cursor: pointer;
+}
+.rodape {
+    display: flex;
+    text-align: center; 
+     margin: 5em 3em;
+     color:#383D58;
+}
+.texto-rodape {
+    display: inline-block;
+    margin: 1em 0; 
+    color: rgb(236, 25, 25); 
+    font-size: 12px;
 }
