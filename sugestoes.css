@@ -1,6 +1,72 @@
 * {
     margin: 0;
     padding: 0;
+    color: rgb(255, 255, 255);
+}
+.titulo1 {
+    margin: 15px 0;
+    font-size: 30px;
+    text-align: center;
+    color:black;
+}
+.cabecalho-lista {
+    align-items: center;
+    background-color: #383D58;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    margin: 10px 0;
+}
+.cabecalho-lista-item {
+    display: inline-block;
+    margin: 0 16px;
+    padding: 24px 0;
+    font-size: 24px;
+}
+.escola-titulo {
+    margin: 30px 0;
+    font-size: 40px;
+    text-align: center;
+    color: black;
+}
+.cabecalho-menu {
+    align-items: center;
+    background-color: #383D58;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    margin: 10px 0;
+}
+.botaomenu:checked~.lista-menu {
+    display: block;
+}
+.botaomenu {
+    display: none;
+}
+.escola {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.a {
+    margin: 40px 0 0 0;
+    font-size: 20px;
+    text-align: left;
+    color: gray;
+    font-display: flex;  
+}
+.rodape {
+    display: flex;
+    text-align: center; 
+     margin: 5em 3em;
+     color:#383D58;
+}
+.texto-rodape {
+    display: inline-block;
+    margin: 1em 0; 
+    color: rgb(236, 25, 25); 
+    font-size: 12px;
 }
 fieldset {
     border: 0;
