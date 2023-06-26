@@ -124,7 +124,6 @@ fieldset.grupo .campo {
 .campo input[type="text"],
 .campo input[type="email"],
 .campo input[type="url"],
-.campo input[type="tel"],
 .campo select,
 .campo textarea {
     padding: 0.2em;
