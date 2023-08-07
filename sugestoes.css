@@ -3,12 +3,14 @@
     padding: 0;
     color: rgb(255, 255, 255);
 }
+
 .titulo1 {
     margin: 15px 0;
     font-size: 30px;
     text-align: center;
-    color:black;
+    color: black;
 }
+
 .cabecalho-lista {
     align-items: center;
     background-color: #383D58;
@@ -17,18 +19,21 @@
     justify-content: space-around;
     margin: 10px 0;
 }
+
 .cabecalho-lista-item {
     display: inline-block;
     margin: 0 16px;
     padding: 24px 0;
     font-size: 24px;
 }
+
 .escola-titulo {
     margin: 30px 0;
     font-size: 40px;
     text-align: center;
     color: black;
 }
+
 .cabecalho-menu {
     align-items: center;
     background-color: #383D58;
@@ -37,50 +42,67 @@
     justify-content: space-around;
     margin: 10px 0;
 }
+
 .botaomenu:checked~.lista-menu {
     display: block;
 }
+
 .botaomenu {
     display: none;
 }
+
 .escola {
     align-items: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
+
 .a {
     margin: 40px 0 0 0;
     font-size: 20px;
     text-align: left;
     color: gray;
-    font-display: flex;  
+    font-display: flex;
 }
+
 fieldset {
     border: 0;
 }
-body, input, select, textarea, button {
+
+body,
+input,
+select,
+textarea,
+button {
     font-size: 1em;
 }
-.grupo:before, .grupo:after {
+
+.grupo:before,
+.grupo:after {
     content: " ";
     display: table;
 }
+
 .grupo:after {
     clear: both;
 }
+
 .campo {
     margin-bottom: 1em;
 }
+
 .campo label {
     margin-bottom: 0.2em;
     color: #992222;
     display: block;
 }
+
 fieldset.grupo .campo {
-    float:  left;
+    float: left;
     margin-right: 1em;
 }
+
 .campo input[type="text"],
 .campo input[type="email"],
 .campo input[type="url"],
@@ -88,20 +110,26 @@ fieldset.grupo .campo {
 .campo textarea {
     padding: 0.2em;
     border: 1px solid #CCC;
-    box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
     display: block;
 }
+
 .campo select option {
     padding-right: 1em;
 }
-.campo input:focus, .campo select:focus, .campo textarea:focus {
+
+.campo input:focus,
+.campo select:focus,
+.campo textarea:focus {
     background: rgb(204, 209, 255);
 }
+
 .campo label.checkbox {
     color: #000;
     display: inline-block;
     margin-right: 1em;
 }
+
 .botao {
     font-size: 1.5em;
     background: rgb(77, 116, 241);
@@ -109,26 +137,32 @@ fieldset.grupo .campo {
     margin-bottom: 1em;
     color: #000000;
     padding: 0.2em 0.6em;
-    box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
-    text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
 }
+
 .botao:hover {
     background: rgb(30, 113, 236);
-    box-shadow: inset 2px 2px 2px rgba(0,0,0,0.2);
+    box-shadow: inset 2px 2px 2px rgba(0, 0, 0, 0.2);
     text-shadow: none;
 }
-.botao, select, label.checkbox {
+
+.botao,
+select,
+label.checkbox {
     cursor: pointer;
 }
+
 .rodape {
     display: flex;
-    text-align: center; 
-     margin: 5em 3em;
-     color:#383D58;
+    text-align: center;
+    margin: 5em 3em;
+    color: #383D58;
 }
+
 .texto-rodape {
     display: inline-block;
-    margin: 1em 0; 
-    color: rgb(236, 25, 25); 
+    margin: 1em 0;
+    color: rgb(236, 25, 25);
     font-size: 12px;
 }
