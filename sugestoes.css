@@ -74,7 +74,7 @@ body, input, select, textarea, button {
 }
 .campo label {
     margin-bottom: 0.2em;
-    color: #666;
+    color: #992222;
     display: block;
 }
 fieldset.grupo .campo {
