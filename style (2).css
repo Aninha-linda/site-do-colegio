@@ -69,6 +69,7 @@
     width:300px;
   }
   #btnBusca{
+    float:left;
     size-adjust: 30%;
   }
   #txtBusca{
