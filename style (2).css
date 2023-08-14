@@ -9,7 +9,7 @@
 * {
     margin: 0;
     padding: 0;
-    color: var(--cor-text-um);
+    color: var(--cor-sombreado);
 }
 .titulo1 {
     margin: 15px 0;
@@ -18,9 +18,9 @@
     color:#6F3F2D;
 }
 .cabecalho-lista {
+    color: #FFECE4;
     align-items: center;
     background-color: #6F3F2D;
-    color: #FFECE4;
     display: flex;
     justify-content: space-around;
     margin: 10px 0;
