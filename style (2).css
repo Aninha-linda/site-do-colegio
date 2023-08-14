@@ -68,7 +68,9 @@
     border-radius:15px;
     width:300px;
   }
-  
+  #btnBusca{
+    size-adjust: 30%;
+  }
   #txtBusca{
     float:left;
     color: #F9D0C1;
