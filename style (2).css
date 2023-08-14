@@ -68,8 +68,17 @@
     border-radius:15px;
     width:300px;
   }
+  #btnBusca{
+    float:left;
+    width: 35%;
+    margin: 30 0 30 0px;
+    padding: 30px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+  }
   #txtBusca{
-    float:right;
+    float:left;
     color: #F9D0C1;
     background-color:transparent;
     padding-left:5px;
@@ -78,14 +87,6 @@
     border:none;
     height:32px;
     width:260px;
-  }
-    #btnBusca{
-    float:right;
-    width: 35%;
-    margin: 30 0 30 0px;
-    padding: 30px;
-    align-items: center;
-    display: flex;
   }
 .escola {
     align-items: center;
