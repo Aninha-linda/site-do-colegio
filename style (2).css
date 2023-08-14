@@ -62,6 +62,13 @@
 .botaomenu {
     display: none;
 }
+#divBusca{
+    background-color:#DDA08A;
+    border:solid 1px;
+    border-radius:15px;
+    width:300px;
+  }
+  
   #txtBusca{
     float:left;
     background-color:transparent;
