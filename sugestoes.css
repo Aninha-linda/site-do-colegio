@@ -28,6 +28,7 @@
 }
 
 .cabecalho-lista-item {
+    color: #F9D0C1;
     display: inline-block;
     margin: 0 16px;
     padding: 24px 0;
@@ -162,6 +163,7 @@ label.checkbox {
 
 .rodape {
     background: #DDA08A;
+    float:inline-end;
     display: block;
     text-align: center;
     margin: 0;
