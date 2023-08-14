@@ -9,7 +9,7 @@
 * {
     margin: 0;
     padding: 0;
-    color: var(--cor-sombreado);
+    color: var(--cor-background-um);
 }
 .titulo1 {
     margin: 15px 0;
@@ -87,18 +87,18 @@
     margin: 40px 0 0 0;
     font-size: 20px;
     text-align: left;
-    color: gray;
+    color: #DDA08A;
     font-display: flex;  
 }
 .rodape {
     display: flex;
-    text-align: center; 
-     margin: 5em 3em;
+    align-items: center; 
+     margin: 20px;
      color: #F9D0C1;
 }
 .texto-rodape {
     display: inline-block;
-    margin: 1em 0; 
+    margin: 30px; 
     color: #DF847B; 
-    font-size: 24px;
+    font-size: 10px;
 }
