@@ -94,8 +94,9 @@ button {
 
 .campo label {
     margin-bottom: 0.2em;
-    color: #992222;
+    color: #4587eb;
     display: block;
+    font-size: larger;
 }
 
 fieldset.grupo .campo {
