@@ -70,6 +70,12 @@
   }
   #btnBusca{
     float:left;
+    width: 35%;
+    margin: 30 0 30 0px;
+    padding: 30px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
   }
   #txtBusca{
     float:left;
