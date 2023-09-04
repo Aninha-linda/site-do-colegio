@@ -28,12 +28,12 @@
 .cabecalho-lista-item {
     display: inline-block;
     margin: 0 16px;
-    padding: 10px 0;
+    padding: 24px 0;
     font-size: 24px;
 }
 .cabecalho-lista-imagem {
     width: 20%;
-    margin-right: 77%;
+    margin-right: 100%;
     display: flex;
 }
 .escola-titulo {
