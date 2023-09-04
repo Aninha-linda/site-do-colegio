@@ -34,6 +34,7 @@
 .cabecalho-lista-imagem {
     width: 20%;
     margin-right: 77%;
+    padding: 50px;
     display: flex;
 }
 .escola-titulo {
