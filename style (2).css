@@ -97,7 +97,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
 .card {
   display: flex;
-  background-color: #eee;
+  background-color: #FFECE4;
   min-width: 100%;
   max-height: 340px;
   overflow-x: auto;
