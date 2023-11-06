@@ -13,6 +13,10 @@
     color: var(--cor-background-um);
 }
 
+.text: {
+  color: #6F3F2D;
+}
+
 .titulo1 {
     margin: 15px 0;
     font-size: 30px;
@@ -71,12 +75,6 @@
     font-family:bradley hand, cursive;
   }
 
-  #apresentacao{
-    text-align:center;
-    padding:0.3cm;
-  }
-
-  #seunome{
-    font-size:25px;
-    font-family:sans-serif;
+  .Resultado{
+    color:#DDA08A;
   }
