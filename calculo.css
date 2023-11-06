@@ -23,7 +23,7 @@
 .cabecalho-lista {
     color: #FFECE4;
     align-items: center;
-    background-color: #DDA08A;
+    background-color: #6F3F2D;
     display: flex;
     justify-content: space-around;
     margin: 10px 0;
@@ -42,7 +42,7 @@
   }
 
   .bloco{
-    background:gray;
+    background:#DDA08A;
   text-align:center;
     width:300px;
     border-style:double;
@@ -57,13 +57,13 @@
   
   .input{
     border-radius:10px;
-    color:red;
+    color:#F9D0C1;
     inline-size:1cm;
     text-align:center;
    }
 
   #sinal{
-    color:white;
+    color:#FFECE4;
   }
 
   h3{
