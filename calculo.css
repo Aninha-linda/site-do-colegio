@@ -23,7 +23,7 @@
 .cabecalho-lista {
     color: #FFECE4;
     align-items: center;
-    background-color: #6F3F2D;
+    background-color: #DDA08A;
     display: flex;
     justify-content: space-around;
     margin: 10px 0;
@@ -37,7 +37,7 @@
 
   .titulo{
     font-size:25px;
-    color:black;
+    color:#6F3F2D;
     font-family:monospace;
   }
 
