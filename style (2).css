@@ -101,10 +101,10 @@
   grid-template-columns: repeat(3, 1fr);
   padding: 10px;
 }
-* {
-  margin: 0;
-  padding: 0;
-  font-size: 13px;
+.tecla {
+  background-color: #6F3F2D;
+  color: #FFECE4;
+  padding: 30px;
 }
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
 .card {
