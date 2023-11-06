@@ -94,6 +94,7 @@
     flex-direction: column;
     justify-content: center;
 }
+
 .teclado {
   background-color: #F9D0C1;
   display: grid;
@@ -101,12 +102,15 @@
   grid-template-columns: repeat(3, 1fr);
   padding: 10px;
 }
+
 .tecla {
   background-color: #6F3F2D;
   color: #FFECE4;
   padding: 30px;
 }
+
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
 .card {
   display: flex;
   background-color: #FFECE4;
@@ -114,16 +118,19 @@
   max-height: 340px;
   overflow-x: auto;
 }
+
 .card--content {
   max-width: 300px;
   margin: 10px;
   padding: 0;
 }
+
 .card--content img {
   height: 150px;
   padding: 5px;
   object-fit: cover;
 }
+
 p.caption {
  background-color: #6F3F2D;
  margin: -10px 5px 5px 5px;
