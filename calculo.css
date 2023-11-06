@@ -13,10 +13,6 @@
     color: var(--cor-background-um);
 }
 
-.text: {
-  color: #6F3F2D;
-}
-
 .titulo1 {
     margin: 15px 0;
     font-size: 30px;
@@ -61,7 +57,7 @@
   
   .input{
     border-radius:10px;
-    color:#F9D0C1;
+    color:#6F3F2D;
     inline-size:1cm;
     text-align:center;
    }
