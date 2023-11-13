@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
 :root{
     --cor-background-um: #FFECE4;
     --cor-text-um: #6F3F2D;
@@ -109,7 +110,6 @@
   padding: 30px;
 }
 
-@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
 
 .card {
   display: flex;
