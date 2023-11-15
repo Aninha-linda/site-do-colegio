@@ -151,9 +151,10 @@ h3{
 }
 
 .docs{
-  color: #FFECE4;
+  text-decoration: #6F3F2D;
+  font-size: 15px;
   text-align: center;
-  background-color: #6F3F2D;
+  background-color: #DDA08A;
   display: flex;
   width: 100px;
   margin-top: 20px;
