@@ -150,11 +150,11 @@ h3{
 
 .teclado {
   background-color: #F9D0C1;
-  margin: 0 200 20 200px;
   display: grid;
   gap: 10px;
   grid-template-columns: repeat(3, 1fr);
   padding: 10px;
+  margin: 0 200 20 200px;
 }
 
 .tecla {
