@@ -155,8 +155,8 @@ h3{
   align-items: center;
   background-color: #6F3F2D;
   display: flex;
-  width: 20px;
-  margin: 20px 0;
+  width: 100px;
+  margin: 20px;
 }
 .teclado {
   background-color: #F9D0C1;
