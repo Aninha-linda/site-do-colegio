@@ -18,6 +18,46 @@
     text-align: center;
     color:#6F3F2D;
 }
+.titulo{
+  font-size:25px;
+  color:#6F3F2D;
+  font-family:monospace;
+}
+
+.bloco{
+  background:#DDA08A;
+text-align:center;
+  width:300px;
+  border-style:double;
+  border-radius:5px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:auto;
+  background-position:absolute;
+  display:table;
+  vertical-align:absolute;
+}
+
+.input{
+  border-radius:10px;
+  color:#6F3F2D;
+  inline-size:1cm;
+  text-align:center;
+ }
+
+#sinal{
+  color:#FFECE4;
+}
+
+h3{
+  text-align:right;
+  font-family:bradley hand, cursive;
+}
+
+.Resultado{
+  color:#DDA08A;
+}
+
 .cabecalho-lista {
     color: #FFECE4;
     align-items: center;
