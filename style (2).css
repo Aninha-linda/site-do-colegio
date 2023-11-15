@@ -152,11 +152,12 @@ h3{
 
 .docs{
   text-decoration-color: #6F3F2D;
-  text-align: center;
   font-size: 30px;
   background-color: #DDA08A;
   display: flex;
   width: 400px;
+  text-align: center;
+  align-items: center;
   margin-top: 20px;
   margin-left: auto;
   margin-right: auto;
