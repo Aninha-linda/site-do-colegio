@@ -120,17 +120,17 @@ span{
 }
 p{
   font-size: x-large;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial;
   text-align: center;
-  color: rgb(218, 195, 240);
+  color: #6F3F2D;
 }
 a{
   font-family: Arial, Helvetica, sans-serif;
 
 }
 .Objetivo{
-  background-color: aquamarine;
-  color: rgb(89, 105, 83);
+  background-color: #DF847B;
+  color: #F9D0C1;
   text-align: center;
   font-size: large;
   cursor: pointer;
@@ -139,9 +139,9 @@ footer{
   text-align: center;
 }
 .ativo{
-  background-color: rgb(9, 33, 112);
-  color: white;
-  border-bottom: 3px solid rgb(255, 0, 0);
+  background-color: #DDA08A;
+  color:#F9D0C1;
+  border-bottom: 3px solid #6F3F2D;
 }
 
 .aba-conteudo {
